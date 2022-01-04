@@ -23,6 +23,7 @@ No Challenges or difficulties
 
 ###### What are two conclusions you can draw about the Outcomes based on Launch Date?
 !(https://github.com/Rohansalwi/Repo-Kickstarter-analysis/blob/main/Theater_Outcomes_vs_Launch.png)
+
 The success rate of producing a play is almost double than the cancelled and failed ones.
 The month of May(111) and June(100) over the years had highest number of successful plays. The success rate was also higher for these two months, 67% in May and 65% in June over the span of 9 years.
 
