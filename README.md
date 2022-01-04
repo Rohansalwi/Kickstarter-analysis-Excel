@@ -21,16 +21,19 @@ No Challenges or difficulties
 
 ## Results
 
-###### What are two conclusions you can draw about the Outcomes based on Launch Date?
+### What are two conclusions you can draw about the Outcomes based on Launch Date?
 ![Theater_Outcomes_vs_Launch](https://user-images.githubusercontent.com/96554223/147997894-24837f4b-a2cf-40e1-a340-ab0d0e464fbb.png)
 
-The success rate of producing a play is almost double than the cancelled and failed ones.
-The month of May(111) and June(100) over the years had highest number of successful plays. The success rate was also higher for these two months, 67% in May and 65% in June over the span of 9 years.
+1. The success rate of producing a play is almost double than the cancelled and failed ones.
+2. The month of May(111) and June(100) over the years had highest number of successful plays. The success rate was also higher for these two months, 67% in May and 65% in June over the span of 9 years.
 
-###### What can you conclude about the Outcomes based on Goals?
-Most number of successful plays were made under the budget of 1000.
+### What can you conclude about the Outcomes based on Goals?
+![Outcomes_vs_Goals](https://user-images.githubusercontent.com/96554223/147997952-6c4a4653-b357-45f7-abd2-574c173bad19.png)
 
-###### What are some limitations of this dataset?
+1. Most number of successful plays were made under the budget of 1000.
+2. Based on the analysis of outcomes based on Goals, 54.17% of the plays produced within a budget between 10,000 and less than 15,000 were successful.
+
+### What are some limitations of this dataset?
 The dataset includes historical information from various countries and does not focus on any one.
 
-###### What are some other possible tables and/or graphs that we could create?
+### What are some other possible tables and/or graphs that we could create?
